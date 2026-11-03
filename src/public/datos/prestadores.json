@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Hotel Mirador del Valle", "tipo": "hotel", "municipio": "Salento", "telefono": "3104567890" },
+  { "id": 2, "nombre": "Restaurante La Fonda Quindiana", "tipo": "restaurante", "municipio": "Filandia", "telefono": "3157894561" },
+  { "id": 3, "nombre": "Agencia Rutas del Café", "tipo": "agencia", "municipio": "Armenia", "telefono": "3001237894" },
+  { "id": 4, "nombre": "Finca Hotel El Guadual", "tipo": "hotel", "municipio": "Montenegro", "telefono": "3126549873" },
+  { "id": 5, "nombre": "Asadero El Arriero", "tipo": "restaurante", "municipio": "Calarcá", "telefono": "3189876543" }
+]
